@@ -1,5 +1,10 @@
 #include "header.h"
 
+/**
+ * main - the main file
+ *
+ */
+
 int main(int ac, char **argv)
 {
 	char *prompt = "holberton shell $";

@@ -33,13 +33,4 @@ we building the project to learn how to create shell.
 * Initialize a new environment variables or created if not match `setenv [VARIABLE} [VALUE]`
 * Remove an environment variable `unsetenv [VARIABLE]`
 * Support the Joshua, DuEwa [name [='value'] ...]`
-* Display help `help [BUILTIN]`
-* Display history `history`
-
-
-## Authors
-Joshua Cones, DuEwa Gordon - Full stack Web devolopment.
-=======
-holbertonschool-simple_shell
-SHELLS
->>>>>>> 68d38758830d841afff4dc6056baedfde1e63659
+* Display help `help 

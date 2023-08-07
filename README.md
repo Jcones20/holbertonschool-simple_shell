@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <simple shell>
 
 ## Description
@@ -38,3 +39,7 @@ we building the project to learn how to create shell.
 
 ## Authors
 Joshua Cones, DuEwa Gordon - Full stack Web devolopment.
+=======
+holbertonschool-simple_shell
+SHELLS
+>>>>>>> 68d38758830d841afff4dc6056baedfde1e63659
